@@ -10,7 +10,7 @@ app.use(express.json())
 
 
 
-
+//check
 
 app.use("/", inventoryRoutes);
 app.use("/", customerRoutes);
